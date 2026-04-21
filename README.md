@@ -90,7 +90,7 @@ https://github.com/vinay21165/User_CRUD_Hibernate-JPA-Project
 * Convert to **Spring Boot REST API**
 * Add **JWT Authentication**
 * Implement **Exception Handling & Logging**
-* Build frontend using React/Angular
+
 
 ---
 
